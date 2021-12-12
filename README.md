@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **ZeroC Ice**
 
-- 📫 How to reach me **beatrizmv97@gmail.comm**
+- 📫 How to reach me **beatrizmv97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
