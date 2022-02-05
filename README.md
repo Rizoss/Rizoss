@@ -7,7 +7,6 @@
 
 - 📫 How to reach me **beatrizmv97@gmail.com**
 
-- 🤝 Colaborations: https://github.com/SergioJimenezR/ISOFT2-2021-BC03
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
