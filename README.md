@@ -11,7 +11,12 @@
 <a href="https://linkedin.com/in/beatriz-muñoz-vicioso-3722b01b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="beatriz muñoz vicioso" height="30" width="40" /></a>
 </p>
 
-<a title="Gmail" href= "mailto:beatrizmv97@gmail.com" ><img src = "https://img.sheilds.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=blanco" /></a>
+ <span style="font-family: inherit; color: #fd6d9f;">e &sdot; </span>
+                  <a style="font-family: inherit; text-decoration: none; color: #666666;" 
+                     href="mailto:beatrizmv97@gmail.com"
+                  >
+                    beatrizmv97@gmail.com
+                  </a>
 
 
 ## Top Languages Card
