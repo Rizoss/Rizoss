@@ -18,7 +18,10 @@
                     beatrizmv97@gmail.com
                   </a>
 
-
+## Projects where I have participated and that will also be published in my repository.
+https://github.com/VictorMA97/Inteligentes
+https://github.com/ArturoAlcaniz/practicaIntegradaG7-backend
+https://github.com/ArturoAlcaniz/practicaIntegradaG7-frontend
 ## Top Languages Card
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rizoss)](https://github.com/Rizoss/github-readme-stats)
